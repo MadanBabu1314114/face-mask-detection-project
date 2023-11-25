@@ -1,7 +1,7 @@
 # Face Mask Detection Project
 
 ## Overview
-blob:https://colab.research.google.com/6629dfea-eb34-455d-92d4-8e6ba0a3473d
+
 In response to the global COVID-19 pandemic and the widespread adoption of face masks, the Face Mask Detection Project aims to utilize deep learning to detect faces with and without masks. The model is trained on a dataset containing 7553 RGB images, categorized into two folders: "with_mask" and "without_mask."
 
 ## Dataset
